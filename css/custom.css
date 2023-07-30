@@ -3,6 +3,10 @@
     background-size: cover;
 }
 
+#top {
+    background: #fff;
+}
+
 #navlogo {
     width: 18px;
     vertical-align: middle;
