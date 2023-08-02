@@ -29,3 +29,11 @@
 #navlogo {
     font-size: 1.4em;
 }
+
+#watermark {
+    background-image: url(/img/logowatermark.png);
+    background-size: 40%;
+    background-repeat: no-repeat;
+    opacity: 0.05;
+    background-position: 100% 6em;
+}
