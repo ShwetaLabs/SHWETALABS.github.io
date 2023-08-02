@@ -29,6 +29,11 @@
 #navlogo {
     font-size: 1.4em;
 }
+@media (max-width: 768px) {
+    #navlogo {
+        font-size: 1.2em; /* Adjust the font size as per your requirements for mobile */
+    }
+}
 
 #watermark {
     background-image: url(/img/logowatermark.png);
@@ -36,4 +41,49 @@
     background-repeat: no-repeat;
     opacity: 0.05;
     background-position: 100% 6em;
+}
+
+
+.desk-mt-1 {
+    margin-top: 1.2em;
+}
+.desk-mt-2 {
+    margin-top: 2.4em;
+}
+.desk-mt-3 {
+    margin-top: 3.6em;
+}
+.desk-mt-4 {
+    margin-top: 4.8em;
+}
+.desk-mt-5 {
+    margin-top: 6em;
+}
+.desk-mt-6 {
+    margin-top: 7.2em;
+}
+
+@media (max-width: 768px) {
+    .desk-mt-1 {
+        margin-top: 2em;
+    }
+    .desk-mt-2 {
+        margin-top: 2em;
+    }
+    .desk-mt-3 {
+        margin-top: 2em;
+    }
+    .desk-mt-4 {
+        margin-top: 2em;
+    }
+    .desk-mt-5 {
+        margin-top: 2em;
+    }
+    .desk-mt-6 {
+        margin-top: 2em;
+    }
+}
+
+footer {
+    margin-top: 4em;
 }
