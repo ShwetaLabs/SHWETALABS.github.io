@@ -8,8 +8,9 @@
 }
 
 #navlogo {
-    width: 18px;
+    width: 1em;
     vertical-align: middle;
+    margin-right: 0.2em;
 }
 
 /* #top {
@@ -19,4 +20,12 @@
 
 #workwithus {
     background: #12396f;
+}
+
+.nav-item {
+    font-size: 1.4em;
+}
+
+#navlogo {
+    font-size: 1.4em;
 }
