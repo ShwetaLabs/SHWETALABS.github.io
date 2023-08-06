@@ -63,6 +63,14 @@
     margin-top: 7.2em;
 }
 
+.desk-mt-7 {
+    margin-top: 8.4em;
+}
+
+.desk-mt-8 {
+    margin-top: 9.6em;
+}
+
 @media (max-width: 768px) {
     .desk-mt-1 {
         margin-top: 2em;
@@ -82,8 +90,19 @@
     .desk-mt-6 {
         margin-top: 2em;
     }
+    .desk-mt-7 {
+        margin-top: 2em;
+    }
+    .desk-mt-8 {
+        margin-top: 2em;
+    }
 }
 
 footer {
     margin-top: 4em;
+}
+
+.exploretext {
+    font-size: 2rem;
+    font-weight: 100;
 }
