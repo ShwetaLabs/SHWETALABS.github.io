@@ -35,15 +35,16 @@
     }
 }
 
+@media (min-width: 768px) {
 body {
     background-image: url(/img/logowatermark2.png);
-    background-size: contain;
+    background-size: 26%;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position-x: 90%;
-    background-position-y: 90%;
+    background-position-y: 30%;
 }
-
+}
 
 .desk-mt-1 {
     margin-top: 1.2em;
