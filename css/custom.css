@@ -8,7 +8,7 @@
 }
 
 #navlogo {
-    width: 1em;
+    width: 1.6em;
     vertical-align: middle;
     margin-right: 0.2em;
 }
@@ -42,7 +42,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position-x: 90%;
-    background-position-y: 30%;
+    background-position-y: 50%;
 }
 }
 
@@ -107,4 +107,8 @@ footer {
 .exploretext {
     font-size: 2rem;
     font-weight: 100;
+}
+
+#footlogo {
+    width: 2.3em;
 }
