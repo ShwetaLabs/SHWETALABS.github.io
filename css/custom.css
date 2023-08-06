@@ -4,7 +4,7 @@
 }
 
 #top {
-    background: #fff;
+    background: transparent;
 }
 
 #navlogo {
@@ -35,12 +35,13 @@
     }
 }
 
-#watermark {
-    background-image: url(/img/logowatermark.png);
-    background-size: 40%;
+body {
+    background-image: url(/img/logowatermark2.png);
+    background-size: contain;
     background-repeat: no-repeat;
-    opacity: 0.05;
-    background-position: 100% 6em;
+    background-attachment: fixed;
+    background-position-x: 90%;
+    background-position-y: 90%;
 }
 
 
