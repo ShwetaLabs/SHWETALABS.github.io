@@ -112,3 +112,15 @@ footer {
 #footlogo {
     width: 2.3em;
 }
+
+#services p {
+    text-align: justify;
+}
+
+.product-features p {
+    text-align: justify;
+}
+
+.justify-text {
+    text-align: justify;
+}
